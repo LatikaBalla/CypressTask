@@ -23,7 +23,7 @@
             "name": "User should navigate to application",
             "result": {
               "status": "passed",
-              "duration": 33000000
+              "duration": 39000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "Click on first Download link",
             "result": {
               "status": "passed",
-              "duration": 161000000
+              "duration": 170000000
             }
           },
           {
@@ -73,7 +73,7 @@
             "name": "User should navigate to application",
             "result": {
               "status": "passed",
-              "duration": 41000000
+              "duration": 40000000
             }
           },
           {
@@ -93,7 +93,7 @@
             "name": "Click on second Download link",
             "result": {
               "status": "passed",
-              "duration": 161000000
+              "duration": 173000000
             }
           },
           {
@@ -111,7 +111,7 @@
       {
         "id": "verifing-title-of-the-pages-and-compare-the-dropdown;a-user-search-compare-vegetable-and-friuts-dropdown",
         "keyword": "Scenario",
-        "line": 19,
+        "line": 18,
         "name": "A User search compare vegetable and friuts dropdown",
         "tags": [],
         "type": "scenario",
@@ -123,7 +123,7 @@
             "name": "User should navigate to application",
             "result": {
               "status": "passed",
-              "duration": 37000000
+              "duration": 39000000
             }
           },
           {
@@ -133,23 +133,23 @@
             "name": "After visiting Verify the title of page",
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 2000000
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
-            "line": 20,
+            "line": 19,
             "name": "Select one fruit \"orange\" from first dropdown",
             "result": {
               "status": "passed",
-              "duration": 126000000
+              "duration": 143000000
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
-            "line": 21,
+            "line": 20,
             "name": "Validate fruit \"orange\" is not in vegetable dropdown",
             "result": {
               "status": "passed",

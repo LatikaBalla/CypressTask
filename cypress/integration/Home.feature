@@ -15,7 +15,6 @@ Feature: Verifing Title of the pages and compare the dropdown
         Then Click on second Download link  
         And  Verify the tile of the page 
 
-
     Scenario: A User search compare vegetable and friuts dropdown 
         When  Select one fruit "orange" from first dropdown
         Then Validate fruit "orange" is not in vegetable dropdown 
