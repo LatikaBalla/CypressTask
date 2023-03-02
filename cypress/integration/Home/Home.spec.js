@@ -9,7 +9,7 @@ Given('User should navigate to application', function () {
   cy.url().should('include', 'Home')
 })
 
-When('After visiting Verify the title of page', function () {
+When('After visiting application Verify the title of page', function () {
   home.verifyHomeTitle()
 })
 

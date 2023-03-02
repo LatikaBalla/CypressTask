@@ -5,7 +5,7 @@ Feature: Verifing Title of the pages and compare the dropdown
 
     Background: Background name
         Given User should navigate to application
-        When After visiting Verify the title of page
+        When After visiting application Verify the title of page
        
     Scenario: User should click on first download link and verify the tile of the page 
         Then Click on first Download link  
