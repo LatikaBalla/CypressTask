@@ -1,0 +1,9 @@
+{
+  "HomePage": {
+    "downloadLink1": "Download",
+    "downloadLink2": "//a[@href='https://www.wikipedia.org/']",
+   "fruitDropdown":"#fruit",
+   "vegetableDropdown":"#vegetable"
+  }
+  
+}

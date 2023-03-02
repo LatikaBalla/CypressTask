@@ -1,0 +1,163 @@
+[
+  {
+    "description": "    As a User\n    In order to use the application\n    I want to Click on download link and compare vegetable and friuts dropdown ",
+    "keyword": "Feature",
+    "name": "Verifing Title of the pages and compare the dropdown",
+    "line": 1,
+    "id": "verifing-title-of-the-pages-and-compare-the-dropdown",
+    "tags": [],
+    "uri": "Home.feature",
+    "elements": [
+      {
+        "id": "verifing-title-of-the-pages-and-compare-the-dropdown;user-should-click-on-first-download-link-and-verify-the-tile-of-the-page",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "User should click on first download link and verify the tile of the page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "User should navigate to application",
+            "result": {
+              "status": "passed",
+              "duration": 33000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "After visiting Verify the title of page",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "Click on first Download link",
+            "result": {
+              "status": "passed",
+              "duration": 161000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "Verify the tile of the page",
+            "result": {
+              "status": "passed",
+              "duration": 5000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "verifing-title-of-the-pages-and-compare-the-dropdown;user-should-click-on-second-download-link-and-verify-the-tile-of-the-page",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "User should click on second download link and verify the tile of the page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "User should navigate to application",
+            "result": {
+              "status": "passed",
+              "duration": 41000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "After visiting Verify the title of page",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 15,
+            "name": "Click on second Download link",
+            "result": {
+              "status": "passed",
+              "duration": 161000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "Verify the tile of the page",
+            "result": {
+              "status": "passed",
+              "duration": 5000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "verifing-title-of-the-pages-and-compare-the-dropdown;a-user-search-compare-vegetable-and-friuts-dropdown",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "A User search compare vegetable and friuts dropdown",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "User should navigate to application",
+            "result": {
+              "status": "passed",
+              "duration": 37000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "After visiting Verify the title of page",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "Select one fruit \"orange\" from first dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 126000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "Validate fruit \"orange\" is not in vegetable dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
