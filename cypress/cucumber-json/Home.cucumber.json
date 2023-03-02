@@ -23,7 +23,7 @@
             "name": "User should navigate to application",
             "result": {
               "status": "passed",
-              "duration": 39000000
+              "duration": 92000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "After visiting Verify the title of page",
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 2000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "Click on first Download link",
             "result": {
               "status": "passed",
-              "duration": 170000000
+              "duration": 772000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "Verify the tile of the page",
             "result": {
               "status": "passed",
-              "duration": 5000000
+              "duration": 8000000
             }
           }
         ]
@@ -73,7 +73,7 @@
             "name": "User should navigate to application",
             "result": {
               "status": "passed",
-              "duration": 40000000
+              "duration": 59000000
             }
           },
           {
@@ -83,7 +83,7 @@
             "name": "After visiting Verify the title of page",
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 3000000
             }
           },
           {
@@ -93,7 +93,7 @@
             "name": "Click on second Download link",
             "result": {
               "status": "passed",
-              "duration": 173000000
+              "duration": 179000000
             }
           },
           {
@@ -123,7 +123,7 @@
             "name": "User should navigate to application",
             "result": {
               "status": "passed",
-              "duration": 39000000
+              "duration": 42000000
             }
           },
           {
@@ -133,7 +133,7 @@
             "name": "After visiting Verify the title of page",
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 1000000
             }
           },
           {
@@ -143,7 +143,7 @@
             "name": "Select one fruit \"orange\" from first dropdown",
             "result": {
               "status": "passed",
-              "duration": 143000000
+              "duration": 147000000
             }
           },
           {
