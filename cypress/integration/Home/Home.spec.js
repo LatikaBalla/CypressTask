@@ -18,8 +18,7 @@ Then('Click on first Download link', function () {
 })
 
 And('Verify the tile of the page', function () {
-  //cy.title().should('eq',"Wikipedia")
-  home.verifyWikiTitle()
+home.verifyWikiTitle()
 })
 
 Then('Click on second Download link', function () {
