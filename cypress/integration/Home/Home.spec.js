@@ -5,7 +5,7 @@ import { HomepageAction } from '../PageObject/PageActions/HomepageAction.js'
 const home = new HomepageAction()
 //testing......
 Given('User should navigate to application', function () {
-  cy.visit("/Demo/Home.html");
+  cy.visit("/Home.html");
   cy.url().should('include', 'Home')
 })
 
