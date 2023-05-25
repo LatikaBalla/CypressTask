@@ -23,7 +23,7 @@
             "name": "User should navigate to application",
             "result": {
               "status": "passed",
-              "duration": 130000000
+              "duration": 112000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "Click on first Download link",
             "result": {
               "status": "passed",
-              "duration": 1135000000
+              "duration": 1025000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "Verify the tile of the page",
             "result": {
               "status": "passed",
-              "duration": 4000000
+              "duration": 2000000
             }
           }
         ]
@@ -93,7 +93,7 @@
             "name": "Click on second Download link",
             "result": {
               "status": "passed",
-              "duration": 200000000
+              "duration": 208000000
             }
           },
           {
@@ -103,7 +103,7 @@
             "name": "Verify the tile of the page",
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 2000000
             }
           }
         ]
