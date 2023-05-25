@@ -8,7 +8,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       return require('./cypress/plugins/index.js')(on, config)
     },
-    baseUrl: 'http://localhost/Demo/Home.html',
+    baseUrl: 'http://localhost/Demo',
     specPattern: 'cypress/integration/*.feature',
     supportFile: 'cypress/support/index.js',
     chromeWebSecurity: false ,

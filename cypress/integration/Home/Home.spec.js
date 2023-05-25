@@ -3,9 +3,9 @@ import { Given, When, Then, And } from 'cypress-cucumber-preprocessor/steps'
 import { HomepageAction } from '../PageObject/PageActions/HomepageAction.js'
 
 const home = new HomepageAction()
-
+//testing......
 Given('User should navigate to application', function () {
-  cy.visit("http://localhost/Demo/Home.html");
+  cy.visit("/Home.html");
   cy.url().should('include', 'Home')
 })
 
