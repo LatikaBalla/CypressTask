@@ -19,5 +19,5 @@ jobs:
         if: always()
         with: 
             name: cypress-execution-report
-            path: cypress/report/*.html
+            path: cypress/reports/cucumber-htmlreport.html/*.html
             retention-days: 30
