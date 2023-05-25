@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
      "cy:chromeHeaded":"cypress run --browser chrome --headed",
 "cy:chromeHeadless":"cypress run --browser chrome"
-
+"ui-regression": "cypress run --browser chrome --spec cypress/e2e/1-getting-started/**.js"
     
   },
   "author": "Latika",
